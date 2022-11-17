@@ -6,7 +6,7 @@ package org.zabalburu.actividad8;
 
 /**
  *
- * @author El PROGRAMADOR QUE NO SABE NADA
+ * @author Junior
  */
 public class Persona {
 
